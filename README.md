@@ -21,4 +21,5 @@ then you will get ``output.csv``. Customize setups accordingly. Commands can be 
 
 -----
 # Updates  
-2017 Nov 20 Version 1.00
+2017 Nov 21 Version 1.01 bug fix for saving data
+2017 Nov 20 Version 1.00  
